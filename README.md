@@ -11,8 +11,10 @@ A news website called Sky Press
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
 
+
 ## General Information
 This project is about a news website that gives the admin of the website the chance to post news in different categories. The admin needs a username and a password to login and be able to make changes in the website. 
+
 
 ## Technologies Used
 -  HTML
