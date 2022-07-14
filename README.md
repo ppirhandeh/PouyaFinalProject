@@ -20,6 +20,7 @@ This project is about a news website that gives the admin of the website the cha
 -  PHP
 -  SQL
 -  Java Script
+
 ## Screenshots
 ![Example screenshot](./img/Documentation/breakpoints.png)
 
